@@ -1,1 +1,2 @@
-bug fixed
+bug fixed by bugfix
+bug fixed by master
